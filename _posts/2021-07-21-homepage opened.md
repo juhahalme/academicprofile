@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "homepage openend"
+title:  "homepage started"
 ---
 
 First post.
