@@ -22,7 +22,7 @@ title: Academic homepage of Dr. Juha Halme
 email: juha.halme@uef.fi
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "academicprofile" # the subpath of your site, e.g. /blog
+baseurl: "/academicprofile" # the subpath of your site, e.g. /blog
 url: "https://juhahalme.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
