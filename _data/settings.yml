@@ -5,7 +5,7 @@ menu:
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
 
- presentations:
+presentations:
 - {name: 'Lectio precursoria', url: 'lectio-precursoria'}
 
 # people:
