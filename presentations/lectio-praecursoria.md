@@ -1,8 +1,7 @@
 ---
 layout: page
-title: "Lectio praecursoria"
+title: "Lectio praecursoria 04.12.2020"
 ---
-
 
 Mr custos, Mr opponent, ladies, and gentlemen,
 
