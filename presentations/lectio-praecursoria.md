@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lectio precursoria"
+title: "Lectio praecursoria"
 ---
 
 
