@@ -1,5 +1,8 @@
 index:
 - {% link /presentations/lectio_precursoria.md %}
+- {% link /presentations/name-of-document.md %}
+
+- [Lectio precursoria]({{ site.baseurl }}{% link /presentations/lectio_precursoria.md %})
 - {name: 'Public examination of doctoral thesis "Attractiveness and competitiveness … but for who? Regional place marketing collaboration from a discursive perspective", Joensuu, Finland, 04.12.2020.'}
 - {name: 'Vetovoimaa ja kilpailukykyä, mutta kenelle? - Maakunnallinen aluemarkkinointiyhteistyö diskursiivisesta näkökulmasta. Maantieteenpäivät, Vaasa, Finland, 24.10.2019 - 25.10.2019.'}
 - {name: 'Discourse and power: Case study of discursive construction of stakeholders positions in regional place marketing collaboration. 5th Corfu Symposium on Managing and Marketing places. Corfu, Greece, 18.04.2018.'}
