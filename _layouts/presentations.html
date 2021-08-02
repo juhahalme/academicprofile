@@ -1,14 +1,8 @@
 ---
 layout: default
+title: Presentation
 ---
 
 {{ content }}
 
-<div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Presentations</h3>
-    {% for presentation in site.data.settings.presentations %}
-      <p><a href="{{ site.github.url }}/presentations/{{ presentation.url}}">{{ presentation.name }}</a></p>
-    {% endfor %}
-  </div>
-</div>
+{% include presentations.html %}
