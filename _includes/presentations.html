@@ -2,13 +2,7 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Presentations</h3>
       {% for item in site.data.presentations.index %}
-        {% if item.name contains "Lectio" %}
-          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
-        {% endfor %}
-    {% else %}
-      {% for item in site.data.presentations.index %}
-        <p>{{ item.name }}</p>
+        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
-    {% endif %}      
   </div>
 </div>
