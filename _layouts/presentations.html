@@ -2,14 +2,13 @@
 layout: default
 ---
 
+{{ content }}
+
 <div class="row g-5 mb-5">
   <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Presentations</h3>
     {% for presentation in site.data.settings.presentations %}
-      {% if item.name contains "lectio" %}
-        <p><a href="{{ site.github.url }}/presentations/{{ presentation.url}}">{{ presentation.name }}</a></p>
-      {% endfor %}
-    {% else %}
-        <p>{{ presentation.name }}</a></p>
-      {% endfor %}
+      <p><a href="{{ site.github.url }}/presentations/{{ presentation.url}}">{{ presentation.name }}</a></p>
+    {% endfor %}
   </div>
 </div>
