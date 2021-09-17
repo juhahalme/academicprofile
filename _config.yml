@@ -33,6 +33,7 @@ url: "https://www.juhahalme.net" # the base hostname & protocol for your site, e
 # theme: academic-jekyll-theme
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 #  - jekyll-feed
 
 
