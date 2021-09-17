@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/academicprofile/2021/07/27/homepage-opened.html</loc>
+<lastmod>2021-07-27T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/academicprofile/2021/08/02/added-lectio-praecursoria.html</loc>
+<lastmod>2021-08-02T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/academicprofile/contact.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/academicprofile/cv.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/academicprofile/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/academicprofile/presentations/lectio-praecursoria.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/academicprofile/presentations.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/academicprofile/publications.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/academicprofile/publications/halme-pro-gradu.pdf</loc>
+<lastmod>2021-09-17T16:51:27+03:00</lastmod>
+</url>
+</urlset>
