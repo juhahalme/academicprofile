@@ -20,11 +20,10 @@
 
 title: Academic website of Dr. Juha Halme
 email: juha.halme@uef.fi
-description: >- # this means to ignore newlines until "baseurl:"
+description: Juha Halme is a Finnish regional studies researcher. He holds a master's degree on sociology and PhD on human geography from University of Eastern Finland.
 
 baseurl: "/academicprofile" # the subpath of your site, e.g. /blog
 url: "https://www.juhahalme.net" # the base hostname & protocol for your site, e.g. http://example.com
-
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
