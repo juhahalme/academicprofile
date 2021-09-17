@@ -24,6 +24,8 @@ description: "Juha Halme is a Finnish regional studies researcher. He holds a ma
 baseurl: "/academicprofile" # the subpath of your site, e.g. /blog
 url: "https://www.juhahalme.net" # the base hostname & protocol for your site, e.g. http://example.com
 
+google_analytics: UA-207868064-1
+
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
