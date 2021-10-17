@@ -3,7 +3,6 @@ layout: page
 title: "Käyttöön koko maakunnan vetovoima"
 ---
 
-# Käyttöön koko maakunnan vetovoima
 Kun pahin korona-aika alkaa helpottaa, maakunnan vetovoimakysymykset ovat tulossa jälleen ajankohtaisiksi. Nyt on aika pohtia, millä keinoilla maakuntaan saadaan houkuteltua työntekijöitä, matkailijoita, asukkaita ja yrityksiä.
 
 Teema ei ole tietenkään missään määrin uusi vaan on ollut ajankohtainen jo vuosikymmenien ajan.
@@ -29,7 +28,5 @@ Tämä ei tarkoita maakuntakeskusten vetovoiman hiipumista vaan sitä, että maa
 Näitä orastavia trendejä ei ole vara jättää huomioimatta aluemarkkinoinnin suunnittelussa, erityisesti uuden EU:n alue- ja rakennepolitiikan ohjelmakauden kynnyksellä.
 
 On ensiarvoisen tärkeää, että Pohjois-Karjalassa pitkään rakennettua maakunnallista aluemarkkinointiyhteistyötä ei romuteta vaan pyritään rakentamaan sen päälle uusia yhteistyökuvioita uusien vetovoimakärkien varaan yhteistyössä maakuntakeskuksen ja kuntien toimijoiden välillä.
-
-Juha Halme
 
 Julkaistu sanomalehti Karjalaisessa 16.10.2021
