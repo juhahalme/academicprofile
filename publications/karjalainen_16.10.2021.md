@@ -29,5 +29,5 @@ Näitä orastavia trendejä ei ole vara jättää huomioimatta aluemarkkinoinnin
 
 On ensiarvoisen tärkeää, että Pohjois-Karjalassa pitkään rakennettua maakunnallista aluemarkkinointiyhteistyötä ei romuteta vaan pyritään rakentamaan sen päälle uusia yhteistyökuvioita uusien vetovoimakärkien varaan yhteistyössä maakuntakeskuksen ja kuntien toimijoiden välillä.
 
-Julkaistu [sanomalehti Karjalaisessa](https://digilukija.karjalainen.fi/karjalainen/35984/article/1464787/24/2/render/?page_url=https%3A%2F%2Fdigilehti.karjalainen.fi%2Ftitles%2Fkarjalainen%2F3544%2Fpublications%2F35984%2Fpages%2F24&token=d53456e21212f2efbb614523ce4eb533) 16.10.2021
+Julkaistu [sanomalehti Karjalaisessa](https://digilukija.karjalainen.fi/karjalainen/35984/article/1464787/24/2/render/?page_url=https%3A%2F%2Fdigilehti.karjalainen.fi%2Ftitles%2Fkarjalainen%2F3544%2Fpublications%2F35984%2Fpages%2F24&token=d53456e21212f2efbb614523ce4eb533) 16.10.2021 (maksumuurin takana)
 
