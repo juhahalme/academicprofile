@@ -34,7 +34,9 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/juha_m_halme'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/juha-halme-a030324a'}
-- {icon: 'sistrix', link: 'https://uefconnect.uef.fi/en/person/juha.halme/'}
+# - {icon: 'sistrix', link: 'https://uefconnect.uef.fi/en/person/juha.halme/'}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Juha_Halme'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0001-9637-6085'}
 
 contacts:
 - {name: 'Dr. Juha Halme', title: 'Project Researcher', department: 'Karelian Institute', phone: '+358 50 570 3754', office: 'Aurora building office 1188', institution: 'University of Eastern Finland', institution_address: 'Yliopistokatu 2, 80100 Joensuu', email: 'juha.halme@uef.fi', image: 'assets/img/contact.jpg'}
