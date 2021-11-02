@@ -4,5 +4,10 @@
       {% for item in site.data.presentations.index %}
         <p><a href="{{ item.url }}">{{ item.name }}</a></p>
       {% endfor %}
+  {% for item in site.data.presentations.nolink %}
+        <p>{{ item.name }}</a></p>
+      {% endfor %}
   </div>
 </div>
+
+
