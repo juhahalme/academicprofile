@@ -1,3 +1,40 @@
+@font-face {
+  font-family: 'uefconnect';
+  src:  url('../fonts/uefconnect.eot?bjem3u');
+  src:  url('../fonts/uefconnect.eot?bjem3u#iefix') format('embedded-opentype'),
+    url('../fonts/uefconnect.ttf?bjem3u') format('truetype'),
+    url('../fonts/uefconnect.woff?bjem3u') format('woff'),
+    url('../fonts/uefconnect.svg?bjem3u#uefconnect') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'uefconnect' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-UEF_Favicon .path1:before {
+  content: "\e900";
+  color: rgb(35, 31, 32);
+}
+.icon-UEF_Favicon .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
