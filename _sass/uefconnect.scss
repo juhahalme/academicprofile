@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'uefconnect';
+  src:  url('../fonts/uefconnect.eot?ibou70');
+  src:  url('../fonts/uefconnect.eot?ibou70#iefix') format('embedded-opentype'),
+    url('../fonts/uefconnect.ttf?ibou70') format('truetype'),
+    url('../fonts/uefconnect.woff?ibou70') format('woff'),
+    url('../fonts/uefconnect.svg?ibou70#uefconnect') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'uefconnect' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-UEF_Favicon .path1:before {
+  content: "\e900";
+  color: rgb(35, 31, 32);
+}
+.icon-UEF_Favicon .path2:before {
+  content: "\e901";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
