@@ -21,9 +21,13 @@
 title: "Academic website of Dr. Juha Halme"
 email: "juha.halme@uef.fi"
 description: "Juha Halme is a Finnish regional scientist. He holds a master's in sociology and a Ph.D. in human geography from the University of Eastern Finland."
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.juhahalme.net" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-207868064-1
+languages: ["en", "fi"]
+exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
+# exclude_from_localizations: ["_includes", "_layouts", "_sass", "_site", "assets"]
+
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
@@ -31,8 +35,10 @@ google_analytics: UA-207868064-1
 # Build settings
 # theme: academic-jekyll-theme
 plugins:
+#  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
+#  - jekyll-multiple-languages-plugin
 #  - jekyll-feed
 
 
