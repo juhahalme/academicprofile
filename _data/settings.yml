@@ -36,4 +36,4 @@ menu:
 # - {icon: 'orcid', link: 'https://orcid.org/0000-0001-9637-6085'}
 
 contacts:
-- {name: 'Dr. Juha Halme', title: 'Project Researcher', department: 'Karelian Institute', phone: '+358 50 570 3754', office: 'Aurora building office 1188', institution: 'University of Eastern Finland', institution_address: 'Yliopistokatu 2, 80100 Joensuu', email: 'juha.halme@uef.fi', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Juha Halme', title: 'Project Researcher', department: 'Karelian Institute', institution: 'University of Eastern Finland', institution_address: 'Yliopistokatu 2, 80100 Joensuu', email: 'juha.halme@uef.fi', image: 'assets/img/contact.jpg'}
