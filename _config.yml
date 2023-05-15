@@ -23,7 +23,7 @@ email: "juha.halme@uef.fi"
 description: "Juha Halme is a Finnish regional scientist. He holds a master's in sociology and a Ph.D. in human geography from the University of Eastern Finland."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.juhahalme.net" # the base hostname & protocol for your site, e.g. http://example.com
-google_analytics: UA-207868064-1
+google_analytics: G-C5VT3L4RJJ
 languages: ["en", "fi"]
 exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]
 # exclude_from_localizations: ["_includes", "_layouts", "_sass", "_site", "assets"]
