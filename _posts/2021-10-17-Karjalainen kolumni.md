@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Lisätty sanomalehti Karjalaisen kolumni"
+title:  "Added column written for the newspaper Karjalainen"
 ---
 
-
-Lisätty sanomalehti Karjalaiseen kirjoittamani [kolumni]({% link publications/karjalainen-16-10-2021.md %}) liittyen maakunnallisen aluemarkkinoinnin tulevaisuuteen. 
-
+Added my [column]({% link publications/karjalainen-16-10-2021.md %}) on the future of regional marketing in Karjalainen newspaper. 
