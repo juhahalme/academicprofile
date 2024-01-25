@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Harnessing the attractiviness of the whole region (Käyttöön koko maakunnan vetovoima)"
+title: "Harnessing the attractiveness of the whole region (Käyttöön koko maakunnan vetovoima)"
 ---
 
 (translation from Finnish)
