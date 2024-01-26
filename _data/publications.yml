@@ -1,4 +1,5 @@
 featured:
+- {name: 'Halme, J., Rauhut, D., & Fritch, M, 2022. ESPON-IRiE Interregional Relations in Europe. Final report - Annex 29: Policy Options.', url: 'https://gis-portal.espon.eu/arcgis/sharing/rest/content/items/5a4c0895efe34f86b1565570ea1e53cf/data'}
 - {name: 'Halme, J. 2021. Harnessing the attractiveness of the whole region (Käyttöön koko maakunnan vetovoima). Sanomalehti Karjalainen, 16.10.2021 (Full text available)', url: '/publications/karjalainen-16-10-2021.html'}
 - {name: 'Halme, J. 2021. The role of social capital in the institutionalization of regional place marketing activity. Place Branding and Public Diplomacy 17 (3): 249-256 (Open Access)', url: 'https://doi.org/10.1057/s41254-021-00201-x'}
 - {name: 'Halme, J. 2020. Attractiveness and competitiveness … but for who? Regional place marketing collaboration from a discursive perspective, Doctoral dissertation. University of Eastern Finland (Open access)', url: 'https://erepo.uef.fi/handle/123456789/23804'}
@@ -6,6 +7,7 @@ featured:
 # - {name: 'Halme, J. 2020. Constructing consensus and conflicts: Discursive dynamics in regional place marketing collaboration. Qualitative Market Research: An International Journal 23 (4): 961-978.', url: 'https://doi.org/10.1108/QMR-12-2017-0172'}
 
 index:
+- {name: 'Halme, J., Rauhut, D., & Fritch, M, 2022. ESPON-IRiE Interregional Relations in Europe. Final report - Annex 29: Policy Options.', url: 'https://gis-portal.espon.eu/arcgis/sharing/rest/content/items/5a4c0895efe34f86b1565570ea1e53cf/data'}
 - {name: 'Halme, J. 2021. Harnessing the attractiveness of the whole region (Käyttöön koko maakunnan vetovoima). Sanomalehti Karjalainen, 16.10.2021 (Full text available)', url: '/publications/karjalainen-16-10-2021.html'}
 - {name: 'Halme, J. 2021. The role of social capital in the institutionalization of regional place marketing activity. Place Branding and Public Diplomacy 17 (3): 249-256 (Open Access)', url: 'https://doi.org/10.1057/s41254-021-00201-x'}
 - {name: 'Halme, J. 2020. Attractiveness and competitiveness … but for who? Regional place marketing collaboration from a discursive perspective, Doctoral dissertation. University of Eastern Finland (Open access)', url: 'https://erepo.uef.fi/handle/123456789/23804'}
