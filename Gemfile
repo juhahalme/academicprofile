@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-# gem 'jekyll-multiple-languages-plugin'
+# gem "jekyll", github: "jekyll/jekyll", ref: "refs/pull/9248/head"
+gem "liquid", "~> 4.0.4"
 gem 'github-pages'
-gem 'jekyll-seo-tag'
 gem 'jekyll-sitemap'
 
 
@@ -10,3 +10,6 @@ gem 'jekyll-sitemap'
 
 
 
+
+
+gem "webrick", "~> 1.9"
